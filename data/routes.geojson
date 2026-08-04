@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "r1",
+        "name": "Екопътека 'Дяволски мост'",
+        "type": "hiking",
+        "distance": "12.5 км",
+        "duration": "4 часа",
+        "color": "#0288d1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [25.1142, 41.6203],
+          [25.1321, 41.6255],
+          [25.1489, 41.6311]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Веломаршрут 'Следваща стъпка: Лешояди'",
+        "type": "biking",
+        "distance": "35 км",
+        "duration": "5 часа",
+        "color": "#f57c00"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [25.8644, 41.6308],
+          [25.8412, 41.6421],
+          [25.8234, 41.6811]
+        ]
+      }
+    }
+  ]
+}

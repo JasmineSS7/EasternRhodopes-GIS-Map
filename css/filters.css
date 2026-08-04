@@ -1,0 +1,39 @@
+.marker-cluster-small {
+  background-color: rgba(91, 112, 54, 0.6) !important;
+}
+.marker-cluster-small div {
+  background-color: rgba(27, 59, 43, 0.85) !important;
+  color: #fff !important;
+  font-weight: bold;
+}
+.marker-cluster-medium {
+  background-color: rgba(212, 175, 55, 0.6) !important;
+}
+.marker-cluster-medium div {
+  background-color: rgba(181, 147, 37, 0.9) !important;
+  color: #fff !important;
+}
+
+/* Custom Marker CSS Pins */
+.custom-pin {
+  width: 36px;
+  height: 36px;
+  border-radius: 50% 50% 50% 0;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -20px 0 0 -20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  border: 2px solid #ffffff;
+  transition: transform 0.2s ease;
+}
+
+.custom-pin i {
+  transform: rotate(45deg);
+  color: #ffffff;
+  font-size: 14px;
+}

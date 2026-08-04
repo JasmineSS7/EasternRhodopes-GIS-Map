@@ -1,0 +1,11 @@
+[
+  { "id": "nature", "name": "Природа", "icon": "fa-leaf", "color": "#2e7d32" },
+  { "id": "history", "name": "История", "icon": "fa-landmark", "color": "#8d6e63" },
+  { "id": "wildlife", "name": "Див живот", "icon": "fa-crow", "color": "#f57c00" },
+  { "id": "routes", "name": "Маршрути", "icon": "fa-person-hiking", "color": "#0288d1" },
+  { "id": "photo", "name": "Фото точки", "icon": "fa-camera", "color": "#7b1fa2" },
+  { "id": "support", "name": "Подкрепи региона", "icon": "fa-heart", "color": "#d32f2f" },
+  { "id": "wine", "name": "Вино", "icon": "fa-wine-glass", "color": "#c2185b" },
+  { "id": "food", "name": "Храна", "icon": "fa-cheese", "color": "#fbc02d" },
+  { "id": "favorites", "name": "Любими", "icon": "fa-star", "color": "#d4af37" }
+]

@@ -1,0 +1,487 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p1",
+        "title": "Скален град Перперикон",
+        "category": "history",
+        "city": "Кърджали",
+        "description": "Древен свещен град, изсечен изцяло в скалите, средище на култове от каменно-медната епоха.",
+        "fact": "Тук е предсказано световното господство на Александър Македонски.",
+        "image": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["археология", "траки", "скали", "крепост"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4656, 41.7153] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p2",
+        "title": "Светилище на Орфей край Татул",
+        "category": "history",
+        "city": "Момчилград",
+        "description": "Единствен по рода си скален гроб на пирамидална скала, свързван с легендарния Орфей.",
+        "fact": "Олтарите са били използвани за астрономически наблюдения.",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["орфей", "траки", "пирамида"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.5447, 41.5422] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p3",
+        "title": "Център за белоглави лешояди",
+        "category": "wildlife",
+        "city": "Маджарово",
+        "description": "Уникален природозащитен център в кратера на изгаснал вулкан, пазител на застрашени лешояди.",
+        "fact": "Маджарово е едно от малкото места в Европа с гнездящи белоглави лешояди.",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["лешояди", "птици", "вулкан", "орнитология"],
+        "support": "Осинови гнездо или подкрепи мониторинга на застрашените птици."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.8644, 41.6308] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p4",
+        "title": "Скален феномен Каменната сватба",
+        "category": "nature",
+        "city": "с. Зимзелен",
+        "description": "Природни туфови образования, наподобяващи сватбено шествие.",
+        "fact": "Образувани са преди 40 милиона години на дъното на топло море.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["скали", "феномен", "легенда"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3953, 41.6472] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p5",
+        "title": "Дяволски мост (Шейтан кюпри)",
+        "category": "history",
+        "city": "Ардино",
+        "description": "Средновековен мост над река Арда, построен в началото на XVI век.",
+        "fact": "В отражението във водата при определено слънце се вижда дяволски рога.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мост", "арда", "архитектура"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.1142, 41.6203] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p6",
+        "title": "Био ферма 'Дивата ферма'",
+        "category": "support",
+        "city": "с. Горно поле",
+        "description": "Семейно стопанство отглеждащо късорого родопско говедо по био начин.",
+        "fact": "Можете да опирате автентични родопски гозби и биологичен мед.",
+        "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["ферма", "био", "храна", "говеда"],
+        "support": "Закупи био мед и местно сирене директно от фермерите."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.8911, 41.6632] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p7",
+        "title": "Завой на река Арда (Меандър Завоя)",
+        "category": "photo",
+        "city": "с. Стар чинар",
+        "description": "Най-известният и живописен меандър на река Арда.",
+        "fact": "Любимо място на пейзажни фотографи от цял свят.",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["арда", "панорама", "фотография"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.2631, 41.6375] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p8",
+        "title": "Пещера Утробата",
+        "category": "history",
+        "city": "с. Ненково",
+        "description": "Древно тракийско светилище с формата на женска утроба.",
+        "fact": "Точно в 12 ч. на обяд слънчев лъч опложда скалния олтар.",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["пещера", "траки", "утроба", "слънце"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.2478, 41.7036] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p9",
+        "title": "Диви Тарпани (Коне)",
+        "category": "wildlife",
+        "city": "с. Бориславци",
+        "description": "Възстановени диви тарпани, живеещи свободно в Източните Родопи.",
+        "fact": "Тези коне поддържат баланса на биоразнообразието чрез паша.",
+        "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["коне", "тарпани", "природа"],
+        "support": "Дари за храна и зимно подпомагане на табуна."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.8234, 41.6811] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p10",
+        "title": "Винарна 'Ивайловград'",
+        "category": "wine",
+        "city": "Ивайловград",
+        "description": "Бутикова изба за автентични сортове Мерло и Мерло от Източните Родопи.",
+        "fact": "Регионът има повече слънчеви дни от Тоскана.",
+        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["вино", "дегустация", "ивайловград"],
+        "support": "Купи бутилка местно вино с кауза за опазване на наследството."
+      },
+      "geometry": { "type": "Point", "coordinates": [26.1264, 41.5283] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p11",
+        "title": "Антична вила 'Армира'",
+        "category": "history",
+        "city": "Ивайловград",
+        "description": "Един от най-богатите римски дворци открити по българските земи.",
+        "fact": "Притежава мозайки с изключителна художествена стойност.",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["рим", "вила", "армира", "мозайки"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [26.1039, 41.5222] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p12",
+        "title": "Каменните гъби",
+        "category": "nature",
+        "city": "с. Бели пласт",
+        "description": "Скални образувания с форма на естествени гъби с височина до 2.5м.",
+        "fact": "Розовият им цвят се дължи на минерала зеолит.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["гъби", "зеолит", "феномен"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4241, 41.7761] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p13",
+        "title": "Крепост Устра",
+        "category": "history",
+        "city": "с. Устрен",
+        "description": "Добре запазена византийска крепост от X век на висок скалист връх.",
+        "fact": "Стените са достигали до 10 метра височина.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["крепост", "устра", "византия"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.2289, 41.4772] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p14",
+        "title": "Светилище Глухите камъни",
+        "category": "history",
+        "city": "с. Малко градище",
+        "description": "Малковски скален комплекс с над 200 изсечени ниши.",
+        "fact": "Името идва от специфичната липса на ехо между скалите.",
+        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["ниши", "траки", "скали"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.9575, 41.7247] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p15",
+        "title": "Водопад Сливодолско падало",
+        "category": "nature",
+        "city": "с. Бачково",
+        "description": "Най-високият водопад в Родопите със своите 49 метра пад.",
+        "fact": "Водата съдържа калциев карбонат и образува красива бигорна скала.",
+        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["водопад", "вода", "природа"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [24.8483, 41.9219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p16",
+        "title": "Тракийски куполни гробници край Миез",
+        "category": "history",
+        "city": "с. Плевун",
+        "description": "Древна куполна гробница от IV в. пр.н.е.",
+        "fact": "Запазила оригиналната си каменна зидария.",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["гробница", "плевун", "траки"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0211, 41.4678] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p17",
+        "title": "Местна Пчеларска Ферма 'Родопски мед'",
+        "category": "support",
+        "city": "Кърджали",
+        "description": "Производство на био мед от мащерка и горски билки.",
+        "fact": "Медът от района е богат на редки минерали.",
+        "image": "https://images.unsplash.com/photo-1587049352847-4a222e784d38?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1587049352847-4a222e784d38?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мед", "пчели", "био"],
+        "support": "Закупи буркан мед от производител без посредници."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3712, 41.6521] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p18",
+        "title": "Крепост Мезек",
+        "category": "history",
+        "city": "с. Мезек",
+        "description": "Изключително запазена средновековна византийска крепост от XI век.",
+        "fact": "Използвана е активно до османското завладяване.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мезек", "крепост", "кули"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0841, 41.7372] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p19",
+        "title": "Куполна гробница Мезек",
+        "category": "history",
+        "city": "с. Мезек",
+        "description": "Най-голямата и една от най-импозантните микенски гробници в Българско.",
+        "fact": "Дълга е над 29 метра с красив коридор (дромос).",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["гробница", "мезек", "траки"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [26.0911, 41.7311] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p20",
+        "title": "Тракийски ниши 'Харман кая'",
+        "category": "history",
+        "city": "с. Биволяне",
+        "description": "Скално-изсечен комплекс с два площада и десетки ниши.",
+        "fact": "Използван е за древни астрономически измервания.",
+        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["скали", "астрономия", "харман кая"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4871, 41.5621] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p21",
+        "title": "Връх Дамбалъ",
+        "category": "nature",
+        "city": "Момчилград",
+        "description": "Лековито изворно светилище в скалите.",
+        "fact": "Според поверието на Гергьовден водата придобива чудодейна сила.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["извор", "вода", "чудо"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4312, 41.5834] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p22",
+        "title": "Крепост Моняк",
+        "category": "history",
+        "city": "с. Широко поле",
+        "description": "Една от най-високо разположените и големи средновековни крепости.",
+        "fact": "Тук е избран латинският император Хенри Фландърски.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["моняк", "панорама", "рицари"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4389, 41.6378] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p23",
+        "title": "Въженият мост към с. Лисиците",
+        "category": "photo",
+        "city": "с. Лисиците",
+        "description": "Най-дългият въжен мост в България (260 метра) над язовир Студен кладенец.",
+        "fact": "Единствената връзка на селото с останалия свят.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мост", "лисиците", "езеро"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.4489, 41.6289] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p24",
+        "title": "Вкаменената гора",
+        "category": "nature",
+        "city": "с. Равен",
+        "description": "Вкаменени дървета на възраст 30 милиона години, стоящи изправени.",
+        "fact": "Дърветата са били затрупани от вулканична пепел в праисторическо море.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["гора", "вкаменелост", "дървета"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.5189, 41.5312] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p25",
+        "title": "Защитена местност 'Боровец'",
+        "category": "nature",
+        "city": "Ямбол / Хасково",
+        "description": "Най-северното естествено находище на черна борчета.",
+        "fact": "Дом на редки влечуги и грабливи птици.",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["бор", "гора", "резерват"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.9123, 41.8123] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p26",
+        "title": "Маджаровски фосили и агати",
+        "category": "nature",
+        "city": "Маджарово",
+        "description": "Находища на скъпоценни камъни и праисторически минерали.",
+        "fact": "Кратерът е източник на световноизвестни родопски агати.",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["агат", "минерали", "камъни"],
+        "support": "Използвайте местни гидове за търсене на минерали."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.8512, 41.6289] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p27",
+        "title": "Занаятчийска работилница за Тъкачество",
+        "category": "support",
+        "city": "Златоград",
+        "description": "Автентична работилница за родопски андеци и черги.",
+        "fact": "Използват се традиционни дървени станове от XIX век.",
+        "image": "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["занаят", "тъкане", "черга"],
+        "support": "Поръчай ръчно тъкана черга директно от майстора."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.0941, 41.3789] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p28",
+        "title": "Златоградски етнографски комплекс",
+        "category": "history",
+        "city": "Златоград",
+        "description": "Възрожденски архитектурен резерват с действащи занаятчийски работилници.",
+        "fact": "Тук се намира най-старата църква в Източните Родопи (1834 г.).",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["златоград", "етно", "занаяти"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.0989, 41.3765] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p29",
+        "title": "Воденицата на въртящото се кафе",
+        "category": "food",
+        "city": "Златоград",
+        "description": "Традиционно приготвяне на въртяно кафе върху горещ пясък.",
+        "fact": "Рецептата е непроменена от над 150 години.",
+        "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["кафе", "традиция", "пясък"],
+        "support": "Опитай кафето на пясък и подкрепи местния кафене-музей."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.0975, 41.3751] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p30",
+        "title": "Природозащитен център 'Кованкая'",
+        "category": "wildlife",
+        "city": "с. Долно Черковище",
+        "description": "Защитена зона за наблюдение на редки видове скални орли.",
+        "fact": "Скалите са изпъстрени с над 100 тракийски скални ниши.",
+        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["орли", "скали", "птици"],
+        "support": "Стани доброволец в почистването на скалните масиви."
+      },
+      "geometry": { "type": "Point", "coordinates": [25.6812, 41.6321] }
+    }
+  ]
+}
