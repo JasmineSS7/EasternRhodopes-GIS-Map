@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Открий Източните Родопи | Интерактивна Туристическа Карта</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Leaflet CSS & Plugins -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" />
+
+  <!-- App Styles -->
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="css/sidebar.css" />
+  <link rel="stylesheet" href="css/popup.css" />
+  <link rel="stylesheet" href="css/gallery.css" />
+  <link rel="stylesheet" href="css/filters.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+</head>
+<body class="light-theme">
+
+  <!-- HERO SECTION -->
+  <section id="hero-screen" class="hero-screen">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <div class="hero-badge"><i class="fa-solid fa-compass"></i> Откривай. Преживявай. Пази.</div>
+      <h1>Открий Източните Родопи</h1>
+      <p class="hero-subtitle">
+        <span>Пазим природата.</span>
+        <span>Съхраняваме наследството.</span>
+        <span>Създаваме бъдещето.</span>
+      </p>
+      <button id="btn-start-adventure" class="btn-primary ripple">
+        <span>Започни своето приключение</span>
+        <i class="fa-solid fa-arrow-right"></i>
+      </button>
+    </div>
+    <div class="hero-footer">
+      <span><i class="fa-solid fa-leaf"></i> 100% Защитени местности</span>
+      <span><i class="fa-solid fa-mountain-sun"></i> 30+ Автентични обекта</span>
+    </div>
+  </section>
+
+  <!-- MAIN APP WRAPPER -->
+  <div id="app-container" class="app-container hidden">
+    
+    <!-- SIDEBAR -->
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <div class="brand">
+          <i class="fa-solid fa-mountain-sun brand-icon"></i>
+          <h2> Заедно за Източните Родопи</h2>
+        </div>
+        <button id="btn-toggle-theme" class="btn-icon" title="Превключи Тъмна/Светла тема" aria-label="Toggle Theme">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+      </div>
+
+      <!-- SEARCH BAR -->
+      <div class="search-box">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input type="text" id="search-input" placeholder="Търси обект, село, вино, фосили..." aria-label="Търсене на обекти" />
+        <button id="search-clear" class="btn-icon hidden" title="Изчисти"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+
+      <!-- CATEGORIES NAV -->
+      <nav class="categories-nav">
+        <ul id="categories-list">
+          <!-- Dynamically Injected -->
+        </ul>
+      </nav>
+
+      <div class="sidebar-footer">
+        <button id="btn-suggest-place" class="btn-secondary">
+            <i class="fa-solid fa-plus-circle"></i> Предложи място
+        </button>
+        <button id="btn-random-place" class="btn-accent">
+          <i class="fa-solid fa-dice"></i> Изненадай ме
+        </button>
+      </div>
+
+      
+    </aside>
+
+
+    <!-- MAP CONTAINER -->
+    <main id="map-container" class="map-container">
+      <button id="btn-toggle-sidebar" class="btn-floating sidebar-toggle" aria-label="Превключи Меню">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+
+      <!-- LEAFLET MAP TARGET -->
+      <div id="map"></div>
+    </main>
+
+  </div>
+
+  <!-- LIGHTBOX / GALLERY MODAL -->
+  <div id="gallery-modal" class="modal-overlay hidden" aria-hidden="true">
+    <button class="modal-close" id="modal-close"><i class="fa-solid fa-xmark"></i></button>
+    <div class="modal-content">
+      <button class="gallery-nav prev" id="gallery-prev"><i class="fa-solid fa-chevron-left"></i></button>
+      <img id="gallery-current-img" src="" alt="Галерия снимка" />
+      <button class="gallery-nav next" id="gallery-next"><i class="fa-solid fa-chevron-right"></i></button>
+      <div class="gallery-caption" id="gallery-caption"></div>
+    </div>
+  </div>
+
+  <!-- External JS Dependencies -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js"></script>
+  
+  <!-- App Main ES6 Entry Point -->
+  <script type="module" src="app.js"></script>
+</body>
+</html>
