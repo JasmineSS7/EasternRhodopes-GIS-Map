@@ -10,9 +10,9 @@
         "city": "Кърджали",
         "description": "Древен свещен град, изсечен изцяло в скалите, средище на култове от каменно-медната епоха.",
         "fact": "Тук е предсказано световното господство на Александър Македонски.",
-        "image": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=600&q=80",
+        "image": "https://www.buildingoftheyear.bg/bg/uchastnici/grad2024/arheologicheski-kompleks-perperikon",
         "gallery": [
-          "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?auto=format&fit=crop&w=1200&q=80"
+          "https://www.buildingoftheyear.bg/bg/uchastnici/grad2024/arheologicheski-kompleks-perperikon"
         ],
         "keywords": ["археология", "траки", "скали", "крепост"],
         "support": null
@@ -28,8 +28,8 @@
         "city": "Момчилград",
         "description": "Единствен по рода си скален гроб на пирамидална скала, свързван с легендарния Орфей.",
         "fact": "Олтарите са били използвани за астрономически наблюдения.",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "image": "images/tatul1.jpg",
+        "gallery": ["images/tatul1.jpg" ,  "images/tatul2.jpg" ],
         "keywords": ["орфей", "траки", "пирамида"],
         "support": null
       },
@@ -866,6 +866,111 @@
         "support": null
       },
       "geometry": { "type": "Point", "coordinates": [25.62835927, 41.42027793] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p55",
+        "title": "Джамия \"Сейтляр джамиси\"",
+        "category": "history",
+        "city": "гр. Крумовград",
+        "description": "Издигната през 1901 г. от фамилия Сейди върху руините на средновековна църква. Сградата е квадратна с четирискатен покрив и минаре от дялан камък (1904 г.).",
+        "fact": "В миналото към старата талпена джамия е имало медресе, а в интериора днес са запазени интересни архитектурни елементи.",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["джамия", "крумовград", "сейтляр", "история", "архитектура"],
+        "support": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.65194087, 41.47305068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p56",
+        "title": "Гробницата при с. Рогач",
+        "category": "history",
+        "city": "с. Рогач",
+        "description": "Скална гробница с трапецовидно сечение, изсечена във вулканичните скали на десния бряг на р. Крумовица край пътя за с. Аврен.",
+        "fact": "Върху скалите до гробницата има две дълбоки дупки, известни сред местните като 'Стъпките на Али'.",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["гробница", "рогач", "крумовица", "кую", "стъпките на али", "траки"],
+        "support": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.6812072, 41.4428631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p57",
+        "title": "Скален некропол с жертвеник - с. Ковил",
+        "category": "history",
+        "city": "с. Ковил",
+        "description": "Скален некропол от 9 изсечени гроба в м. 'Белите камъни' (Ак кая), датиран от II в. пр. Хр. – I в. сл. Хр. Погребенията са извършвани чрез трупоизгаряне.",
+        "fact": "При разкопките са открити зооморфни култoви фигури, фибули и накити.",
+        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["некропол", "ковил", "белите камъни", "ак кая", "траки", "жертвеник"],
+        "support": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.6645775, 41.5130091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p58",
+        "title": "Микроязовир \"Сливарка\"",
+        "category": "nature",
+        "city": "с. Сливарка",
+        "description": "Красив водоем с изключително чиста вода и поддържани брегове, разположен в непосредствена близост до село Сливарка.",
+        "fact": "Сравнително голям язовир със земно-насипна стена и богато биоразнообразие.",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["язовир", "сливарка", "вода", "природа", "крумовград"],
+        "support": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.705251, 41.441729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p59",
+        "title": "Тракийско светилище - с. Ковил",
+        "category": "history",
+        "city": "с. Ковил",
+        "description": "Мащабен светилищен комплекс около венец от бели вулканични туфи. Съдържа жертвеници, шарапани, улеи и ниши от бронзовата и желязната епоха.",
+        "fact": "При разкопки през 90-те години тук е открит уникален антропоморфен идол.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": [
+          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+        ],
+        "keywords": ["светилище", "ковил", "шарапана", "траки", "туфи", "идол"],
+        "support": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.6646204, 41.5191135]
+      }
     }
   ]
 }
