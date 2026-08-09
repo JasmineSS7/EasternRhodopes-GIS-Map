@@ -482,6 +482,390 @@
         "support": "Стани доброволец в почистването на скалните масиви."
       },
       "geometry": { "type": "Point", "coordinates": [25.6812, 41.6321] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p31",
+        "title": "Мостове - с. Шумнатица",
+        "category": "history",
+        "city": "с. Шумнатица",
+        "description": "Живописни сводести мостове над селската река в махалите на с. Шумнатица. Най-големият е едносводест край махала Каменска със свод широк 10.1м и висок 6.80м.",
+        "fact": "В центъра на махала Каменска старият каменен мост е запазен непосредствено до новия асфалтиран път.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мост", "римски мост", "каменски мост", "шумнатица", "архитектура"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3718224, 41.3034083] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p32",
+        "title": "Водениците - с. Шумнатица",
+        "category": "history",
+        "city": "с. Шумнатица",
+        "description": "Автентични воденици със стари тиклени покриви. Едната е все още действаща и стрива зърно за хляб и фураж. Две от тях са обявени за паметници на културата.",
+        "fact": "Две от водениците в с. Шумнатица са обявени за паметници на културата с автентична архитектура.",
+        "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["воденица", "мелница", "паметник на културата", "шумнатица"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.372286, 41.302558] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p33",
+        "title": "Къщи от края на XIX век - с. Шумнатица",
+        "category": "history",
+        "city": "с. Шумнатица",
+        "description": "Запазени каменни къщи с тиклени покриви и оригинални комини. В съчетание със стария калдъръмен път образуват част от древен път към Беломорска Тракия.",
+        "fact": "Някои от къщите в селото са обявени за паметници на културата.",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["къщи", "калдъръм", "възрожденска архитектура", "шумнатица"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3736383, 41.3026094] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p34",
+        "title": "Извори в местност 'Кукуля' (Баничките)",
+        "category": "nature",
+        "city": "с. Кирково",
+        "description": "Живописни лечебни извори в м. Кукуля край с. Кирково. Водата се използва за лечение на бъбречни и стомашно-чревни заболявания.",
+        "fact": "В района има 3-4 изворчета, хванати в чешмички сред вековни елови дървета.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["извори", "баничките", "кукуля", "лечебна вода", "кирково"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3766531, 41.3288793] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p35",
+        "title": "Старинен мост - с. Кирково",
+        "category": "history",
+        "city": "с. Кирково",
+        "description": "Запазен трисводест каменен мост над река Солуцка (Кирковска) с дължина 22.70м, построен върху скална основа.",
+        "fact": "Мостът е трисводест с височина на отделните сводове съответно 3.10м, 5.0м и 2.0м.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["мост", "римски мост", "кирково", "солуцка река"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.3778654, 41.3284371] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p36",
+        "title": "Пещерите край с. Кремен",
+        "category": "nature",
+        "city": "с. Кремен",
+        "description": "Пещери във варовици с богата пещерна фауна. Включват 'Водната яма' с подземно езеро и 'Златната яма' с богати образувания.",
+        "fact": "Във 'Водната яма' има подземно езерце с дребни рибки, а в 'Златната яма' има следи от минал живот.",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["пещера", "водната яма", "златната яма", "кремен", "сталактити"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.33844233, 41.28957729] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p37",
+        "title": "Паметник на Капитан Петко войвода",
+        "category": "history",
+        "city": "гр. Крумовград",
+        "description": "Издигнат през 1975 г. на главното шосе в Крумовград в памет на легендарния тракийски войвода.",
+        "fact": "Скулптор на монумента е Петър Иванов Димитров от гр. София.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["паметник", "петко войвода", "крумовград", "история"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.656849, 41.469439] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p38",
+        "title": "Църква 'Св. Иван Рилски'",
+        "category": "history",
+        "city": "гр. Крумовград",
+        "description": "Действаща трикорабна църква от 1934 г. с осмостенен купол и ценен иконостас от орехово дърво.",
+        "fact": "Осветена е през 1936 г. от пловдивския митрополит Кирил, по-късно Български Патриарх.",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["църква", "храм", "крумовград", "иван рилски"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.65501, 41.4715514] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p39",
+        "title": "Чуковски водопад",
+        "category": "nature",
+        "city": "с. Чуково",
+        "description": "Красив и леснодостъпен водопад в скален каньон край село Чуково, разположен само на 5 минути пеша от пътя.",
+        "fact": "За най-смелите посетители има поставена стълба, която води право във водата на водопада.",
+        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["водопад", "чуково", "момчилград", "каньон"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.42993717, 41.48781268] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p40",
+        "title": "Водопад Щолнята",
+        "category": "nature",
+        "city": "с. Звездел",
+        "description": "Живописен водопад, намиращ се в близост до рудник 'Звездел', достъпен за по-малко от 10 минути пеша от шосето.",
+        "fact": "Намира се много близо до главния път между Момчилград и рудник Звездел.",
+        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["водопад", "щтолнята", "звездел", "момчилград"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.509525, 41.452652] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p41",
+        "title": "Паскеле кая и Йели кая",
+        "category": "nature",
+        "city": "с. Звезделина",
+        "description": "Скален комплекс Коджакая със скални площадки, ниши и предполагаемо древна тракийска астрономическа точка.",
+        "fact": "В подножието на масива е прокопан тунел в скалата за жп линията към Кърджали.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["скали", "коджакая", "паскеле кая", "звезделина"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.492306, 41.637556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p42",
+        "title": "Конака на Али бей",
+        "category": "history",
+        "city": "с. Нановица",
+        "description": "Старинен конак от 1851 г. с оригинална дърворезба, представящ типичната османска жилищна архитектура от XIX век.",
+        "fact": "Фасадните му релефи са запазени повече от 150 години в селото.",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["конак", "али бей", "нановица", "архитектура"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.56897673, 41.55156403] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p43",
+        "title": "Чешма - с. Каменец",
+        "category": "nature",
+        "city": "с. Каменец",
+        "description": "Традиционна крайпътна чешма на пътя към телевизионната кула на връх Стръмни рид.",
+        "fact": "Разположена е на асфалтов път точно срещу изоставена стара сграда.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["чешма", "каменец", "стръмни рид", "вода"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.489667, 41.468944] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p44",
+        "title": "Римски мост - с. Тихомир",
+        "category": "history",
+        "city": "с. Тихомир",
+        "description": "Старинен каменен сводест мост в района на село Тихомир.",
+        "fact": "Част от древна мрежа от мостове в южната част на Източните Родопи.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["римски мост", "тихомир", "кирково"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.50389586, 41.31820278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p45",
+        "title": "Римски мост 'Кършака'",
+        "category": "history",
+        "city": "с. Тихомир",
+        "description": "Автентичен сводест каменен мост в местността Кършака.",
+        "fact": "Добре запазен пример за традиционно планинско мостостроене.",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["римски мост", "кършака", "тихомир"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.50426243, 41.30509655] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p46",
+        "title": "Вилата на Хюсенка",
+        "category": "history",
+        "city": "с. Кукуряк",
+        "description": "Интересен местен архитектoничен обект в планинския район край с. Тихомир.",
+        "fact": "Разположена е сред живописните ридове на Южните Родопи.",
+        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["вила", "хюсенка", "тихомир"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.46987827, 41.32084573] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p47",
+        "title": "Горски разсадник",
+        "category": "nature",
+        "city": "с. Кукуряк",
+        "description": "Залесителен горски разсадник за растителни видове в Южните Родопи.",
+        "fact": "Важен център за поддържане на местната горска флора.",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["разсадник", "гора", "природа"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.45403479, 41.3296265] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p48",
+        "title": "Място за отдих 'Tanic'",
+        "category": "nature",
+        "city": "с. Царино",
+        "description": "Панорамна точка за почивка сред планинската природа.",
+        "fact": "Предлага отлична гледка към планинските вериги.",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["отдих", "tanic", "панорама"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.43566702, 41.33162449] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p49",
+        "title": "Разклон Gallery",
+        "category": "history",
+        "city": "с. Царино",
+        "description": "Арт пространство и арт точка край пътя.",
+        "fact": "Обединява съвременни визуални акценти с планинския пейзаж.",
+        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["галерия", "разклон", "култура"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.42941125, 41.35169966] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p50",
+        "title": "Хълм на свободата (The hill of freedom)",
+        "category": "photo",
+        "city": "с. Кукуряк",
+        "description": "Панорамен връх с красив обзор над района.",
+        "fact": "Любимо място за снимки и наблюдения на залеза.",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["хълм", "свобода", "панорама"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.48424776, 41.33868141] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p51",
+        "title": "Чешмата 'Замък'",
+        "category": "nature",
+        "city": "с. Врана поляна",
+        "description": "Атрактивна каменна чешма, оформена в стила на малък замък.",
+        "fact": "Предлага студена планинска изворна вода.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["чешма", "замък", "вода"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.50094183, 41.3449321] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p52",
+        "title": "Ловна чешма 'Хасара'",
+        "category": "nature",
+        "city": "с. Врана поляна",
+        "description": "Чешма и кът за почивка в подножието на крепост Торлакхасар.",
+        "fact": "Използва се от местни туристи и ловци за отдих.",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["чешма", "хасара", "вода"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.50124224, 41.34841161] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p53",
+        "title": "Средновековна крепост Торлакхасар (Torlakhasar)",
+        "category": "history",
+        "city": "с. Кран",
+        "description": "Средновековна крепост върху скалист връх край с. Кран, контролирала планинските проходи в Източните Родопи.",
+        "fact": "Издигната е на висока скала с панорамна гледка над долината.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["крепост", "торлакхасар", "история", "средновековие"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.50530891, 41.34433396] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "p54",
+        "title": "Крепост 'Редестюк'",
+        "category": "history",
+        "city": "общ. Крумовград",
+        "description": "Древна укрепена византийска и средновековна крепост в Родопите.",
+        "fact": "Запазени са скални основи и останки от отбранителни стени.",
+        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
+        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "keywords": ["крепост", "редестюк", "крумовград"],
+        "support": null
+      },
+      "geometry": { "type": "Point", "coordinates": [25.62835927, 41.42027793] }
     }
   ]
 }

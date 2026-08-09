@@ -218,7 +218,6 @@ class App {
   }
 }
 
-// Стартиране при зареждане на DOM
 document.addEventListener('DOMContentLoaded', () => {
   const app = new App();
   app.run();
