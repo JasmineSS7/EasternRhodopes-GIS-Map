@@ -1,6 +1,4 @@
-/**
- * UI Animations & Theme Controller
- */
+
 export function initThemeToggle() {
   const btn = document.getElementById('btn-toggle-theme');
   const body = document.body;
@@ -12,7 +10,6 @@ export function initThemeToggle() {
     localStorage.setItem('rhodope_theme', isDark ? 'dark' : 'light');
   });
 
-  // Restore Theme Choice
   const saved = localStorage.getItem('rhodope_theme');
   if (saved === 'dark') {
     body.classList.add('dark-theme');

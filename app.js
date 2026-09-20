@@ -1,6 +1,3 @@
-/**
- * Main Application Orchestrator & GeoJSON Data Pipeline
- */
 import { MapEngine } from './js/map.js';
 import { createPopupContent } from './js/popup.js';
 import { FilterEngine } from './js/filters.js';
@@ -11,7 +8,6 @@ import { Gallery } from './js/gallery.js';
 import { initRandom } from './js/random.js';
 import { initThemeToggle } from './js/animations.js';
 
-// Защитен помощен механизъм за LocalStorage
 function getSavedFavorites() {
   try {
     const data = localStorage.getItem('rhodope_favs');
@@ -42,16 +38,13 @@ class App {
   }
 
   async run() {
-    // 1. Инициализиране на UI елементите и Картата
     this.initHero();
     initSidebar();
     initThemeToggle();
     this.mapEngine.init();
 
-    // 2. Зареждане на GeoJSON и метаданните за категориите
     await this.loadData();
 
-    // 3. Инициализиране на филтрите и търсачката
     this.filterEngine = new FilterEngine(this.categories, (catId) => {
       this.activeFilter = catId;
       this.renderMarkers();
@@ -65,7 +58,6 @@ class App {
     initRandom(this.placesData, this.mapEngine);
     await loadRoutes(this.mapEngine);
 
-    // 4. Първоначално изчертаване
     this.updateCategoryCountsUI();
     this.renderMarkers();
   }
@@ -93,7 +85,7 @@ class App {
       ]);
 
       const placesGeoJson = await placesRes.json();
-      this.placesData = placesGeoJson.features;
+      this.placesData = placesGeoJson.features || [];
       this.categories = await catRes.json();
     } catch (e) {
       console.error('Error loading GeoJSON data:', e);
@@ -107,9 +99,7 @@ class App {
       counts[c] = (counts[c] || 0) + 1;
     });
 
-    // Добавяме и бройка за категория "Любими"
     counts['favorites'] = this.favorites.length;
-
     this.filterEngine.renderCategoriesUI('categories-list', counts);
   }
 
@@ -119,22 +109,21 @@ class App {
     const filtered = this.placesData.filter(feature => {
       const props = feature.properties;
       
-      // Логика за филтриране по "Любими"
       if (this.activeFilter === 'favorites') {
         if (!this.favorites.includes(props.id)) return false;
       } else if (this.activeFilter !== 'all' && props.category !== this.activeFilter) {
         return false;
       }
 
-      // Логика за търсене
       if (this.searchQuery) {
         const q = this.searchQuery;
-        const matchName = props.title.toLowerCase().includes(q);
-        const matchCity = props.city.toLowerCase().includes(q);
-        const matchDesc = props.description.toLowerCase().includes(q);
+        const matchName = props.title?.toLowerCase().includes(q);
+        const matchCity = props.city?.toLowerCase().includes(q);
+        const matchDesc = props.description?.toLowerCase().includes(q);
+        const matchStory = props.story?.toLowerCase().includes(q);
         const matchKeys = props.keywords && props.keywords.some(k => k.toLowerCase().includes(q));
         
-        return matchName || matchCity || matchDesc || matchKeys;
+        return matchName || matchCity || matchDesc || matchStory || matchKeys;
       }
 
       return true;
@@ -146,7 +135,6 @@ class App {
       props.lat = lat;
       props.lng = lng;
 
-      // Персонализирана иконка за маркера
       const catObj = this.categories.find(c => c.id === props.category) || {};
       const color = catObj.color || '#1B3B2B';
       const iconClass = catObj.icon || 'fa-location-dot';
@@ -164,26 +152,22 @@ class App {
       const marker = L.marker([lat, lng], { icon: customIcon });
       feature.markerRef = marker;
 
-      // Свързване на прозореца (Popup)
       const isFav = this.favorites.includes(props.id);
       const popupHtml = createPopupContent(props, isFav);
       marker.bindPopup(popupHtml, { className: 'custom-leaflet-popup' });
 
-      // Събития при отваряне на Popup
       marker.on('popupopen', () => {
         const popupEl = marker.getPopup().getElement();
         
-        // Бутон Навигация
         popupEl.querySelector('.btn-nav')?.addEventListener('click', () => {
           window.open(`https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`, '_blank');
         });
 
-        // Бутон Галерия
         popupEl.querySelector('.btn-gallery')?.addEventListener('click', () => {
-          this.gallery.open(props.gallery || [props.image], props.title);
+          const imgs = (props.gallery && props.gallery.length > 0) ? props.gallery : (props.image ? [props.image] : []);
+          this.gallery.open(imgs, props.title);
         });
 
-        // Бутон Сподели
         popupEl.querySelector('.btn-share')?.addEventListener('click', () => {
           if (navigator.share) {
             navigator.share({ title: props.title, text: props.description, url: window.location.href });
@@ -193,7 +177,6 @@ class App {
           }
         });
 
-        // Бутон Звездичка (Любими)
         popupEl.querySelector('.popup-fav-btn')?.addEventListener('click', (e) => {
           const btn = e.currentTarget;
           const id = props.id;

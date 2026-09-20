@@ -10,10 +10,8 @@
         "city": "Кърджали",
         "description": "Древен свещен град, изсечен изцяло в скалите, средище на култове от каменно-медната епоха.",
         "fact": "Тук е предсказано световното господство на Александър Македонски.",
-        "image": "https://www.buildingoftheyear.bg/bg/uchastnici/grad2024/arheologicheski-kompleks-perperikon",
-        "gallery": [
-          "https://www.buildingoftheyear.bg/bg/uchastnici/grad2024/arheologicheski-kompleks-perperikon"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["археология", "траки", "скали", "крепост"],
         "support": null
       },
@@ -29,7 +27,7 @@
         "description": "Единствен по рода си скален гроб на пирамидална скала, свързван с легендарния Орфей.",
         "fact": "Олтарите са били използвани за астрономически наблюдения.",
         "image": "images/tatul1.jpg",
-        "gallery": ["images/tatul1.jpg" ,  "images/tatul2.jpg" ],
+        "gallery": ["images/tatul1.jpg", "images/tatul2.jpg"],
         "keywords": ["орфей", "траки", "пирамида"],
         "support": null
       },
@@ -44,8 +42,8 @@
         "city": "Маджарово",
         "description": "Уникален природозащитен център в кратера на изгаснал вулкан, пазител на застрашени лешояди.",
         "fact": "Маджарово е едно от малкото места в Европа с гнездящи белоглави лешояди.",
-        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["лешояди", "птици", "вулкан", "орнитология"],
         "support": "Осинови гнездо или подкрепи мониторинга на застрашените птици."
       },
@@ -60,8 +58,8 @@
         "city": "с. Зимзелен",
         "description": "Природни туфови образования, наподобяващи сватбено шествие.",
         "fact": "Образувани са преди 40 милиона години на дъното на топло море.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["скали", "феномен", "легенда"],
         "support": null
       },
@@ -76,8 +74,8 @@
         "city": "Ардино",
         "description": "Средновековен мост над река Арда, построен в началото на XVI век.",
         "fact": "В отражението във водата при определено слънце се вижда дяволски рога.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мост", "арда", "архитектура"],
         "support": null
       },
@@ -92,8 +90,8 @@
         "city": "с. Горно поле",
         "description": "Семейно стопанство отглеждащо късорого родопско говедо по био начин.",
         "fact": "Можете да опирате автентични родопски гозби и биологичен мед.",
-        "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["ферма", "био", "храна", "говеда"],
         "support": "Закупи био мед и местно сирене директно от фермерите."
       },
@@ -108,8 +106,8 @@
         "city": "с. Стар чинар",
         "description": "Най-известният и живописен меандър на река Арда.",
         "fact": "Любимо място на пейзажни фотографи от цял свят.",
-        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["арда", "панорама", "фотография"],
         "support": null
       },
@@ -124,8 +122,8 @@
         "city": "с. Ненково",
         "description": "Древно тракийско светилище с формата на женска утроба.",
         "fact": "Точно в 12 ч. на обяд слънчев лъч опложда скалния олтар.",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["пещера", "траки", "утроба", "слънце"],
         "support": null
       },
@@ -140,8 +138,8 @@
         "city": "с. Бориславци",
         "description": "Възстановени диви тарпани, живеещи свободно в Източните Родопи.",
         "fact": "Тези коне поддържат баланса на биоразнообразието чрез паша.",
-        "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["коне", "тарпани", "природа"],
         "support": "Дари за храна и зимно подпомагане на табуна."
       },
@@ -156,8 +154,8 @@
         "city": "Ивайловград",
         "description": "Бутикова изба за автентични сортове Мерло и Мерло от Източните Родопи.",
         "fact": "Регионът има повече слънчеви дни от Тоскана.",
-        "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["вино", "дегустация", "ивайловград"],
         "support": "Купи бутилка местно вино с кауза за опазване на наследството."
       },
@@ -172,8 +170,8 @@
         "city": "Ивайловград",
         "description": "Един от най-богатите римски дворци открити по българските земи.",
         "fact": "Притежава мозайки с изключителна художествена стойност.",
-        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["рим", "вила", "армира", "мозайки"],
         "support": null
       },
@@ -188,8 +186,8 @@
         "city": "с. Бели пласт",
         "description": "Скални образувания с форма на естествени гъби с височина до 2.5м.",
         "fact": "Розовият им цвят се дължи на минерала зеолит.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["гъби", "зеолит", "феномен"],
         "support": null
       },
@@ -204,8 +202,8 @@
         "city": "с. Устрен",
         "description": "Добре запазена византийска крепост от X век на висок скалист връх.",
         "fact": "Стените са достигали до 10 метра височина.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["крепост", "устра", "византия"],
         "support": null
       },
@@ -220,8 +218,8 @@
         "city": "с. Малко градище",
         "description": "Малковски скален комплекс с над 200 изсечени ниши.",
         "fact": "Името идва от специфичната липса на ехо между скалите.",
-        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["ниши", "траки", "скали"],
         "support": null
       },
@@ -236,8 +234,8 @@
         "city": "с. Бачково",
         "description": "Най-високият водопад в Родопите със своите 49 метра пад.",
         "fact": "Водата съдържа калциев карбонат и образува красива бигорна скала.",
-        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["водопад", "вода", "природа"],
         "support": null
       },
@@ -252,8 +250,8 @@
         "city": "с. Плевун",
         "description": "Древна куполна гробница от IV в. пр.н.е.",
         "fact": "Запазила оригиналната си каменна зидария.",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["гробница", "плевун", "траки"],
         "support": null
       },
@@ -268,8 +266,8 @@
         "city": "Кърджали",
         "description": "Производство на био мед от мащерка и горски билки.",
         "fact": "Медът от района е богат на редки минерали.",
-        "image": "https://images.unsplash.com/photo-1587049352847-4a222e784d38?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1587049352847-4a222e784d38?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мед", "пчели", "био"],
         "support": "Закупи буркан мед от производител без посредници."
       },
@@ -284,8 +282,8 @@
         "city": "с. Мезек",
         "description": "Изключително запазена средновековна византийска крепост от XI век.",
         "fact": "Използвана е активно до османското завладяване.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мезек", "крепост", "кули"],
         "support": null
       },
@@ -300,8 +298,8 @@
         "city": "с. Мезек",
         "description": "Най-голямата и една от най-импозантните микенски гробници в Българско.",
         "fact": "Дълга е над 29 метра с красив коридор (дромос).",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["гробница", "мезек", "траки"],
         "support": null
       },
@@ -316,8 +314,8 @@
         "city": "с. Биволяне",
         "description": "Скално-изсечен комплекс с два площада и десетки ниши.",
         "fact": "Използван е за древни астрономически измервания.",
-        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["скали", "астрономия", "харман кая"],
         "support": null
       },
@@ -332,8 +330,8 @@
         "city": "Момчилград",
         "description": "Лековито изворно светилище в скалите.",
         "fact": "Според поверието на Гергьовден водата придобива чудодейна сила.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["извор", "вода", "чудо"],
         "support": null
       },
@@ -348,8 +346,8 @@
         "city": "с. Широко поле",
         "description": "Една от най-високо разположените и големи средновековни крепости.",
         "fact": "Тук е избран латинският император Хенри Фландърски.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["моняк", "панорама", "рицари"],
         "support": null
       },
@@ -364,8 +362,8 @@
         "city": "с. Лисиците",
         "description": "Най-дългият въжен мост в България (260 метра) над язовир Студен кладенец.",
         "fact": "Единствената връзка на селото с останалия свят.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мост", "лисиците", "езеро"],
         "support": null
       },
@@ -380,8 +378,8 @@
         "city": "с. Равен",
         "description": "Вкаменени дървета на възраст 30 милиона години, стоящи изправени.",
         "fact": "Дърветата са били затрупани от вулканична пепел в праисторическо море.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["гора", "вкаменелост", "дървета"],
         "support": null
       },
@@ -396,8 +394,8 @@
         "city": "Ямбол / Хасково",
         "description": "Най-северното естествено находище на черна борчета.",
         "fact": "Дом на редки влечуги и грабливи птици.",
-        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["бор", "гора", "резерват"],
         "support": null
       },
@@ -412,8 +410,8 @@
         "city": "Маджарово",
         "description": "Находища на скъпоценни камъни и праисторически минерали.",
         "fact": "Кратерът е източник на световноизвестни родопски агати.",
-        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["агат", "минерали", "камъни"],
         "support": "Използвайте местни гидове за търсене на минерали."
       },
@@ -428,8 +426,8 @@
         "city": "Златоград",
         "description": "Автентична работилница за родопски андеци и черги.",
         "fact": "Използват се традиционни дървени станове от XIX век.",
-        "image": "https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1606744837616-56c9a5c6a6eb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["занаят", "тъкане", "черга"],
         "support": "Поръчай ръчно тъкана черга директно от майстора."
       },
@@ -444,8 +442,8 @@
         "city": "Златоград",
         "description": "Възрожденски архитектурен резерват с действащи занаятчийски работилници.",
         "fact": "Тук се намира най-старата църква в Източните Родопи (1834 г.).",
-        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["златоград", "етно", "занаяти"],
         "support": null
       },
@@ -460,8 +458,8 @@
         "city": "Златоград",
         "description": "Традиционно приготвяне на въртяно кафе върху горещ пясък.",
         "fact": "Рецептата е непроменена от над 150 години.",
-        "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["кафе", "традиция", "пясък"],
         "support": "Опитай кафето на пясък и подкрепи местния кафене-музей."
       },
@@ -476,8 +474,8 @@
         "city": "с. Долно Черковище",
         "description": "Защитена зона за наблюдение на редки видове скални орли.",
         "fact": "Скалите са изпъстрени с над 100 тракийски скални ниши.",
-        "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1516426122078-c23e76319801?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["орли", "скали", "птици"],
         "support": "Стани доброволец в почистването на скалните масиви."
       },
@@ -492,8 +490,8 @@
         "city": "с. Шумнатица",
         "description": "Живописни сводести мостове над селската река в махалите на с. Шумнатица. Най-големият е едносводест край махала Каменска със свод широк 10.1м и висок 6.80м.",
         "fact": "В центъра на махала Каменска старият каменен мост е запазен непосредствено до новия асфалтиран път.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мост", "римски мост", "каменски мост", "шумнатица", "архитектура"],
         "support": null
       },
@@ -508,8 +506,8 @@
         "city": "с. Шумнатица",
         "description": "Автентични воденици със стари тиклени покриви. Едната е все още действаща и стрива зърно за хляб и фураж. Две от тях са обявени за паметници на културата.",
         "fact": "Две от водениците в с. Шумнатица са обявени за паметници на културата с автентична архитектура.",
-        "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1500595046743-cd271d694d30?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["воденица", "мелница", "паметник на културата", "шумнатица"],
         "support": null
       },
@@ -524,8 +522,8 @@
         "city": "с. Шумнатица",
         "description": "Запазени каменни къщи с тиклени покриви и оригинални комини. В съчетание със стария калдъръмен път образуват част от древен път към Беломорска Тракия.",
         "fact": "Някои от къщите в селото са обявени за паметници на културата.",
-        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["къщи", "калдъръм", "възрожденска архитектура", "шумнатица"],
         "support": null
       },
@@ -540,8 +538,8 @@
         "city": "с. Кирково",
         "description": "Живописни лечебни извори в м. Кукуля край с. Кирково. Водата се използва за лечение на бъбречни и стомашно-чревни заболявания.",
         "fact": "В района има 3-4 изворчета, хванати в чешмички сред вековни елови дървета.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["извори", "баничките", "кукуля", "лечебна вода", "кирково"],
         "support": null
       },
@@ -556,8 +554,8 @@
         "city": "с. Кирково",
         "description": "Запазен трисводест каменен мост над река Солуцка (Кирковска) с дължина 22.70м, построен върху скална основа.",
         "fact": "Мостът е трисводест с височина на отделните сводове съответно 3.10м, 5.0м и 2.0м.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["мост", "римски мост", "кирково", "солуцка река"],
         "support": null
       },
@@ -572,8 +570,8 @@
         "city": "с. Кремен",
         "description": "Пещери във варовици с богата пещерна фауна. Включват 'Водната яма' с подземно езеро и 'Златната яма' с богати образувания.",
         "fact": "Във 'Водната яма' има подземно езерце с дребни рибки, а в 'Златната яма' има следи от минал живот.",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["пещера", "водната яма", "златната яма", "кремен", "сталактити"],
         "support": null
       },
@@ -588,8 +586,8 @@
         "city": "гр. Крумовград",
         "description": "Издигнат през 1975 г. на главното шосе в Крумовград в памет на легендарния тракийски войвода.",
         "fact": "Скулптор на монумента е Петър Иванов Димитров от гр. София.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["паметник", "петко войвода", "крумовград", "история"],
         "support": null
       },
@@ -604,8 +602,8 @@
         "city": "гр. Крумовград",
         "description": "Действаща трикорабна църква от 1934 г. с осмостенен купол и ценен иконостас от орехово дърво.",
         "fact": "Осветена е през 1936 г. от пловдивския митрополит Кирил, по-късно Български Патриарх.",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["църква", "храм", "крумовград", "иван рилски"],
         "support": null
       },
@@ -620,8 +618,8 @@
         "city": "с. Чуково",
         "description": "Красив и леснодостъпен водопад в скален каньон край село Чуково, разположен само на 5 минути пеша от пътя.",
         "fact": "За най-смелите посетители има поставена стълба, която води право във водата на водопада.",
-        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["водопад", "чуково", "момчилград", "каньон"],
         "support": null
       },
@@ -636,8 +634,8 @@
         "city": "с. Звездел",
         "description": "Живописен водопад, намиращ се в близост до рудник 'Звездел', достъпен за по-малко от 10 минути пеша от шосето.",
         "fact": "Намира се много близо до главния път между Момчилград и рудник Звездел.",
-        "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["водопад", "щтолнята", "звездел", "момчилград"],
         "support": null
       },
@@ -652,8 +650,8 @@
         "city": "с. Звезделина",
         "description": "Скален комплекс Коджакая със скални площадки, ниши и предполагаемо древна тракийска астрономическа точка.",
         "fact": "В подножието на масива е прокопан тунел в скалата за жп линията към Кърджали.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["скали", "коджакая", "паскеле кая", "звезделина"],
         "support": null
       },
@@ -668,8 +666,8 @@
         "city": "с. Нановица",
         "description": "Старинен конак от 1851 г. с оригинална дърворезба, представящ типичната османска жилищна архитектура от XIX век.",
         "fact": "Фасадните му релефи са запазени повече от 150 години в селото.",
-        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["конак", "али бей", "нановица", "архитектура"],
         "support": null
       },
@@ -684,8 +682,8 @@
         "city": "с. Каменец",
         "description": "Традиционна крайпътна чешма на пътя към телевизионната кула на връх Стръмни рид.",
         "fact": "Разположена е на асфалтов път точно срещу изоставена стара сграда.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["чешма", "каменец", "стръмни рид", "вода"],
         "support": null
       },
@@ -700,8 +698,8 @@
         "city": "с. Тихомир",
         "description": "Старинен каменен сводест мост в района на село Тихомир.",
         "fact": "Част от древна мрежа от мостове в южната част на Източните Родопи.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["римски мост", "тихомир", "кирково"],
         "support": null
       },
@@ -716,8 +714,8 @@
         "city": "с. Тихомир",
         "description": "Автентичен сводест каменен мост в местността Кършака.",
         "fact": "Добре запазен пример за традиционно планинско мостостроене.",
-        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["римски мост", "кършака", "тихомир"],
         "support": null
       },
@@ -732,8 +730,8 @@
         "city": "с. Кукуряк",
         "description": "Интересен местен архитектoничен обект в планинския район край с. Тихомир.",
         "fact": "Разположена е сред живописните ридове на Южните Родопи.",
-        "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["вила", "хюсенка", "тихомир"],
         "support": null
       },
@@ -748,8 +746,8 @@
         "city": "с. Кукуряк",
         "description": "Залесителен горски разсадник за растителни видове в Южните Родопи.",
         "fact": "Важен център за поддържане на местната горска флора.",
-        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["разсадник", "гора", "природа"],
         "support": null
       },
@@ -764,8 +762,8 @@
         "city": "с. Царино",
         "description": "Панорамна точка за почивка сред планинската природа.",
         "fact": "Предлага отлична гледка към планинските вериги.",
-        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["отдих", "tanic", "панорама"],
         "support": null
       },
@@ -780,8 +778,8 @@
         "city": "с. Царино",
         "description": "Арт пространство и арт точка край пътя.",
         "fact": "Обединява съвременни визуални акценти с планинския пейзаж.",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["галерия", "разклон", "култура"],
         "support": null
       },
@@ -796,8 +794,8 @@
         "city": "с. Кукуряк",
         "description": "Панорамен връх с красив обзор над района.",
         "fact": "Любимо място за снимки и наблюдения на залеза.",
-        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["хълм", "свобода", "панорама"],
         "support": null
       },
@@ -812,8 +810,8 @@
         "city": "с. Врана поляна",
         "description": "Атрактивна каменна чешма, оформена в стила на малък замък.",
         "fact": "Предлага студена планинска изворна вода.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["чешма", "замък", "вода"],
         "support": null
       },
@@ -828,8 +826,8 @@
         "city": "с. Врана поляна",
         "description": "Чешма и кът за почивка в подножието на крепост Торлакхасар.",
         "fact": "Използва се от местни туристи и ловци за отдих.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["чешма", "хасара", "вода"],
         "support": null
       },
@@ -844,8 +842,8 @@
         "city": "с. Кран",
         "description": "Средновековна крепост върху скалист връх край с. Кран, контролирала планинските проходи в Източните Родопи.",
         "fact": "Издигната е на висока скала с панорамна гледка над долината.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["крепост", "торлакхасар", "история", "средновековие"],
         "support": null
       },
@@ -860,8 +858,8 @@
         "city": "общ. Крумовград",
         "description": "Древна укрепена византийска и средновековна крепост в Родопите.",
         "fact": "Запазени са скални основи и останки от отбранителни стени.",
-        "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=600&q=80",
-        "gallery": ["https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=80"],
+        "image": null,
+        "gallery": [],
         "keywords": ["крепост", "редестюк", "крумовград"],
         "support": null
       },
@@ -876,17 +874,12 @@
         "city": "гр. Крумовград",
         "description": "Издигната през 1901 г. от фамилия Сейди върху руините на средновековна църква. Сградата е квадратна с четирискатен покрив и минаре от дялан камък (1904 г.).",
         "fact": "В миналото към старата талпена джамия е имало медресе, а в интериора днес са запазени интересни архитектурни елементи.",
-        "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=600&q=80",
-        "gallery": [
-          "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["джамия", "крумовград", "сейтляр", "история", "архитектура"],
         "support": null
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.65194087, 41.47305068]
-      }
+      "geometry": { "type": "Point", "coordinates": [25.65194087, 41.47305068] }
     },
     {
       "type": "Feature",
@@ -897,17 +890,12 @@
         "city": "с. Рогач",
         "description": "Скална гробница с трапецовидно сечение, изсечена във вулканичните скали на десния бряг на р. Крумовица край пътя за с. Аврен.",
         "fact": "Върху скалите до гробницата има две дълбоки дупки, известни сред местните като 'Стъпките на Али'.",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=600&q=80",
-        "gallery": [
-          "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["гробница", "рогач", "крумовица", "кую", "стъпките на али", "траки"],
         "support": null
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.6812072, 41.4428631]
-      }
+      "geometry": { "type": "Point", "coordinates": [25.6812072, 41.4428631] }
     },
     {
       "type": "Feature",
@@ -918,17 +906,12 @@
         "city": "с. Ковил",
         "description": "Скален некропол от 9 изсечени гроба в м. 'Белите камъни' (Ак кая), датиран от II в. пр. Хр. – I в. сл. Хр. Погребенията са извършвани чрез трупоизгаряне.",
         "fact": "При разкопките са открити зооморфни култoви фигури, фибули и накити.",
-        "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=600&q=80",
-        "gallery": [
-          "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=1200&q=80"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["некропол", "ковил", "белите камъни", "ак кая", "траки", "жертвеник"],
         "support": null
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.6645775, 41.5130091]
-      }
+      "geometry": { "type": "Point", "coordinates": [25.6645775, 41.5130091] }
     },
     {
       "type": "Feature",
@@ -939,17 +922,12 @@
         "city": "с. Сливарка",
         "description": "Красив водоем с изключително чиста вода и поддържани брегове, разположен в непосредствена близост до село Сливарка.",
         "fact": "Сравнително голям язовир със земно-насипна стена и богато биоразнообразие.",
-        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=600&q=80",
-        "gallery": [
-          "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["язовир", "сливарка", "вода", "природа", "крумовград"],
         "support": null
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.705251, 41.441729]
-      }
+      "geometry": { "type": "Point", "coordinates": [25.705251, 41.441729] }
     },
     {
       "type": "Feature",
@@ -960,17 +938,12 @@
         "city": "с. Ковил",
         "description": "Мащабен светилищен комплекс около венец от бели вулканични туфи. Съдържа жертвеници, шарапани, улеи и ниши от бронзовата и желязната епоха.",
         "fact": "При разкопки през 90-те години тук е открит уникален антропоморфен идол.",
-        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
-        "gallery": [
-          "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
-        ],
+        "image": null,
+        "gallery": [],
         "keywords": ["светилище", "ковил", "шарапана", "траки", "туфи", "идол"],
         "support": null
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.6646204, 41.5191135]
-      }
+      "geometry": { "type": "Point", "coordinates": [25.6646204, 41.5191135] }
     }
   ]
 }
